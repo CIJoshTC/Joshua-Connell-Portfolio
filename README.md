@@ -9,4 +9,4 @@ The goal of this weeks challange is to create a webpage that contains visual sty
 * Git
 
 ## Deployment
-[Deployment link](file:///Users/joshuathomasconnell/Documents/Bootcamp-class/Week1/Module-1-challenge-Horiseon-accessibility/index.html)
+[Deployment link] file:///Users/joshuathomasconnell/Documents/Bootcamp-class/Week3/Day1/Joshua-Connell-Portfolio/index.html
