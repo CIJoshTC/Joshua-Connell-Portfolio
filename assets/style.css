@@ -19,9 +19,21 @@ header {
     background-color: brown;
 }
 /* Tag selctor*/
+.body-img  {
+    height: 600px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/Portofilo-body-photo.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
 body{
+    
     background-color:blanchedalmond ;
 }
+
+
 
 .header nav {
     padding-top: 15px;
