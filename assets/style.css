@@ -11,7 +11,7 @@
 
 /*class selctor*/
 .title {
-    color: #ffcc00;
+    color: rgb(255, 162, 0);
     font-style: italic;
     font-size: 35px;
 }
@@ -88,5 +88,12 @@ h3{
 
 #email, #github, #linkedin{
     color:rgb(133, 186, 191);
+    background-color: rgb(255, 162, 0);
     
+}
+
+
+/*End of base styles*/
+.container {
+    display: flex;
 }
