@@ -9,4 +9,5 @@ The goal of this weeks challange is to create a webpage that contains visual sty
 * Git
 
 ## Deployment
+<img width="2240" alt="Screenshot 2023-04-22 at 10 50 26 PM" src="https://user-images.githubusercontent.com/127640352/233817055-a66b3b5f-0485-4c6b-b4d7-e5bf5ef7750f.png">
 [Deployment link] file:///Users/joshuathomasconnell/Documents/Bootcamp-class/Week3/Day1/Joshua-Connell-Portfolio/index.html
