@@ -17,13 +17,25 @@
  
 }
 
+.Joshua-Connell {
+    width:200px;
+     height:200px;
+     display:inline;
+     margin-left:4px;
+     margin-right: auto;
+     padding: 2%;
+     background-color:rgb(89, 130, 107);
+     
+
+}
+
 
 
 
 header {
     width: 100%;
     height: 80px;
-    background-color: rgb(42, 165, 97);
+    background-color: rgb(89, 130, 107);
 }
 /* class selctor*/
 .body-img  {
@@ -38,6 +50,17 @@ header {
 body{
     
     background-color:blanchedalmond ;
+}
+
+.Optimizing-accesibility {
+    width:700px;
+    height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  
+  
 }
 
 
@@ -70,6 +93,10 @@ p{
     ;
 }
 
+
+
+
+
 h3{
     font-size: 35px;
     font-style: italic;
@@ -90,7 +117,7 @@ h3{
  
 /* ID selector*/
 
-#email, #github, #linkedin{
+#email, #github, #deployed-link{
     color:rgb(133, 186, 191);
     background-color: rgb(255, 162, 0);
     
@@ -106,9 +133,13 @@ h3{
 }
 
 /* I want to center the Contacts in page as well*/
-.Contact{
-   align-self:center;
-    
-
+h4{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    text-decoration: underline rgb(82, 107, 73);
+    color: black
 }
+
+
 
