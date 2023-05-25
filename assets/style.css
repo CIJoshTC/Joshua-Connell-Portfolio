@@ -93,6 +93,25 @@ p{
     ;
 }
 
+.Work {
+    text-align: center;
+  }
+  
+  .Work img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .container li {
+    margin-bottom: 10px;
+  }
 
 
 
